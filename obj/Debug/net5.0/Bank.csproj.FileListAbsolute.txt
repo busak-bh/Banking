@@ -1,0 +1,16 @@
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.csprojAssemblyReference.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Bank\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
